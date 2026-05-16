@@ -1,1 +1,6 @@
+geopy
+joblib
+osmnx
+scikit-learn
 streamlit
+streamlit-folium

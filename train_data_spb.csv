@@ -1,0 +1,769 @@
+length,highway,surface,smoothness,lit,wheelchair,target
+6.314418324354826,footway,asphalt,unknown,unknown,yes,1
+5.009464269466814,footway,asphalt,unknown,unknown,yes,1
+46.18706809120986,footway,"['asphalt', 'paving_stones']","['good', 'excellent']",yes,limited,0
+37.16584753955686,footway,"['asphalt', 'paving_stones']","['good', 'excellent']",yes,limited,0
+8.980259318288095,footway,paving_stones,unknown,yes,yes,1
+3.0202926515954203,footway,paving_stones,unknown,yes,yes,1
+152.25918213503465,footway,paving_stones,intermediate,no,limited,0
+38.817497012879734,footway,"['asphalt', 'paving_stones']",intermediate,"['yes', 'no']",limited,0
+46.187068091209866,footway,"['asphalt', 'paving_stones']","['good', 'excellent']",yes,limited,0
+37.16584753955686,footway,"['asphalt', 'paving_stones']","['good', 'excellent']",yes,limited,0
+8.457543713715882,footway,paving_stones,unknown,yes,yes,1
+130.59249327064387,footway,paving_stones,unknown,unknown,limited,0
+120.47184635403705,footway,paving_stones,unknown,yes,yes,1
+117.92764422882674,footway,paving_stones,unknown,yes,yes,1
+73.08758453669083,footway,paving_stones,unknown,yes,limited,0
+30.753539316527622,footway,paving_stones,unknown,yes,yes,1
+89.3129396197105,footway,paving_stones,unknown,yes,yes,1
+120.47184635403705,footway,paving_stones,unknown,yes,yes,1
+89.3129396197105,footway,paving_stones,unknown,yes,yes,1
+117.92764422882674,footway,paving_stones,unknown,yes,yes,1
+10.683312162386311,footway,paving_stones,unknown,yes,yes,1
+129.31866754828874,footway,paving_stones,intermediate,no,limited,0
+165.8741173689701,footway,paving_stones,intermediate,no,limited,0
+97.83560167215397,footway,paving_stones,unknown,yes,yes,1
+8.980259318288095,footway,paving_stones,unknown,yes,yes,1
+3.041562833325873,footway,paving_stones,excellent,unknown,yes,1
+29.790614192131738,footway,paving_stones,excellent,unknown,yes,1
+15.068314615378148,footway,paving_stones,unknown,yes,yes,1
+6.340933961743576,footway,asphalt,unknown,yes,limited,0
+26.54368744006551,footway,asphalt,unknown,yes,limited,0
+36.878121339380044,footway,"['asphalt', 'paving_stones']","['good', 'intermediate']",yes,limited,0
+32.942091773178326,footway,paving_stones,unknown,yes,limited,0
+5.948174848228375,footway,asphalt,unknown,unknown,yes,1
+6.314418324354826,footway,asphalt,unknown,unknown,yes,1
+25.758931617906242,footway,asphalt,unknown,unknown,yes,1
+5.009464269466814,footway,asphalt,unknown,unknown,yes,1
+29.75502945405211,footway,asphalt,unknown,unknown,yes,1
+31.169159395473436,footway,paving_stones,unknown,unknown,yes,1
+238.43288696101706,footway,paving_stones,intermediate,no,limited,0
+197.04210793312467,footway,paving_stones,intermediate,no,limited,0
+86.01166529374521,footway,paving_stones,excellent,yes,limited,0
+138.367815984828,footway,paving_stones,intermediate,no,limited,0
+38.81749701287973,footway,"['asphalt', 'paving_stones']",intermediate,"['yes', 'no']",limited,0
+28.2615933374339,footway,paving_stones,intermediate,no,no,0
+125.8182545218506,footway,paving_stones,intermediate,no,no,0
+53.320060737757245,footway,paving_stones,intermediate,no,no,0
+48.07542857092399,footway,paving_stones,intermediate,no,no,0
+60.278606703839756,footway,paving_stones,intermediate,no,no,0
+27.526206545535032,footway,"['asphalt', 'paving_stones']",intermediate,no,no,0
+111.38720174136716,footway,"['asphalt', 'paving_stones']",intermediate,no,no,0
+27.526206545535032,footway,"['asphalt', 'paving_stones']",intermediate,no,no,0
+21.097025245075837,footway,asphalt,unknown,no,no,0
+210.1470058952299,footway,paving_stones,intermediate,no,no,0
+43.46906066688734,footway,"['asphalt', 'paving_stones']",intermediate,no,no,0
+68.87888841878512,footway,paving_stones,intermediate,no,no,0
+43.469060666887344,footway,"['asphalt', 'paving_stones']",intermediate,no,no,0
+130.59249327064387,footway,paving_stones,unknown,unknown,limited,0
+47.975055761166125,footway,paving_stones,unknown,unknown,limited,0
+22.95202987709208,footway,paving_stones,unknown,unknown,limited,0
+108.33683698723375,footway,paving_stones,unknown,yes,limited,0
+108.33683698723375,footway,paving_stones,unknown,yes,limited,0
+29.525441186261478,footway,paving_stones,excellent,yes,limited,0
+31.669040668411863,footway,paving_stones,intermediate,no,limited,0
+65.31200901048794,footway,paving_stones,unknown,unknown,yes,1
+215.0785065866953,footway,paving_stones,unknown,yes,yes,1
+30.753539316527622,footway,paving_stones,unknown,yes,yes,1
+215.0785065866953,footway,paving_stones,unknown,yes,yes,1
+157.7497866148744,footway,"['asphalt', 'paving_stones']",intermediate,unknown,no,0
+5.571697285493804,footway,"['paving_stones', 'sett']",intermediate,unknown,no,0
+31.169159395473436,footway,paving_stones,unknown,unknown,yes,1
+131.48641403665295,footway,paving_stones,unknown,unknown,yes,1
+138.367815984828,footway,paving_stones,intermediate,no,limited,0
+238.43288696101706,footway,paving_stones,intermediate,no,limited,0
+125.71733824323965,footway,paving_stones,intermediate,unknown,no,0
+69.96388789491346,footway,paving_stones,intermediate,unknown,no,0
+157.74978661487444,footway,"['asphalt', 'paving_stones']",intermediate,unknown,no,0
+125.71733824323965,footway,paving_stones,intermediate,unknown,no,0
+35.344431849000905,footway,paving_stones,excellent,unknown,yes,1
+34.29864576087365,footway,paving_stones,excellent,unknown,yes,1
+20.250078827313477,footway,paving_stones,excellent,unknown,yes,1
+35.344431849000905,footway,paving_stones,excellent,unknown,yes,1
+20.977438558838745,footway,paving_stones,excellent,unknown,yes,1
+20.250078827313477,footway,paving_stones,excellent,unknown,yes,1
+30.734062010502484,footway,asphalt,unknown,unknown,yes,1
+18.51208889872065,footway,asphalt,unknown,unknown,yes,1
+114.13459429281606,footway,paving_stones,intermediate,no,no,0
+68.87888841878512,footway,paving_stones,intermediate,no,no,0
+205.51291206612464,footway,paving_stones,intermediate,no,no,0
+125.8182545218506,footway,paving_stones,intermediate,no,no,0
+10.683312162386311,footway,paving_stones,unknown,yes,yes,1
+97.83560167215397,footway,paving_stones,unknown,yes,yes,1
+30.734062010502484,footway,asphalt,unknown,unknown,yes,1
+32.788859631926094,footway,"['paving_stones', 'metal']",unknown,unknown,yes,1
+3.0202926515954203,footway,paving_stones,unknown,yes,yes,1
+129.31866754828874,footway,paving_stones,intermediate,no,limited,0
+152.25918213503465,footway,paving_stones,intermediate,no,limited,0
+29.790614192131738,footway,paving_stones,excellent,unknown,yes,1
+36.298571025783176,footway,paving_stones,excellent,unknown,yes,1
+22.95202987709208,footway,paving_stones,unknown,unknown,limited,0
+43.259720576161904,footway,paving_stones,unknown,unknown,limited,0
+34.29864576087365,footway,paving_stones,excellent,unknown,yes,1
+3.041562833325873,footway,paving_stones,excellent,unknown,yes,1
+32.763183785116986,footway,asphalt,unknown,unknown,yes,1
+130.57894904747351,"['steps', 'footway']",unknown,unknown,24/7,yes,1
+32.763183785116986,footway,asphalt,unknown,unknown,yes,1
+45.36259079709241,footway,paving_stones,unknown,unknown,yes,1
+45.36259079709241,footway,paving_stones,unknown,unknown,yes,1
+130.57894904747351,"['steps', 'footway']",unknown,unknown,24/7,yes,1
+165.8741173689701,footway,paving_stones,intermediate,no,limited,0
+31.669040668411863,footway,paving_stones,intermediate,no,limited,0
+8.743388062088982,"['steps', 'footway']",paving_stones,intermediate,no,no,0
+3.7317499136577834,"['steps', 'footway']",unknown,unknown,yes,no,0
+43.259720576161904,footway,paving_stones,unknown,unknown,limited,0
+47.975055761166125,footway,paving_stones,unknown,unknown,limited,0
+18.51208889872065,footway,asphalt,unknown,unknown,yes,1
+5.948174848228375,footway,asphalt,unknown,unknown,yes,1
+197.04210793312467,footway,paving_stones,intermediate,no,limited,0
+21.097025245075837,footway,asphalt,unknown,no,no,0
+8.457543713715882,footway,paving_stones,unknown,yes,yes,1
+65.56621584902567,footway,paving_stones,unknown,yes,yes,1
+36.878121339380044,footway,"['asphalt', 'paving_stones']","['good', 'intermediate']",yes,limited,0
+3.7317499136577834,"['steps', 'footway']",unknown,unknown,yes,no,0
+147.29960187481868,footway,asphalt,unknown,yes,limited,0
+6.340933961743576,footway,asphalt,unknown,yes,limited,0
+15.075701011682911,footway,asphalt,good,yes,limited,0
+15.075701011682913,footway,asphalt,good,yes,limited,0
+28.2615933374339,footway,paving_stones,intermediate,no,no,0
+205.29280376886283,footway,paving_stones,intermediate,no,no,0
+48.07542857092399,footway,paving_stones,intermediate,no,no,0
+205.51291206612467,footway,paving_stones,intermediate,no,no,0
+102.47596316923918,footway,paving_stones,intermediate,no,no,0
+53.320060737757245,footway,paving_stones,intermediate,no,no,0
+205.29280376886283,footway,paving_stones,intermediate,no,no,0
+102.47596316923918,footway,paving_stones,intermediate,no,no,0
+69.96388789491346,footway,paving_stones,intermediate,unknown,no,0
+5.571697285493804,footway,"['paving_stones', 'sett']",intermediate,unknown,no,0
+111.38720174136718,footway,"['asphalt', 'paving_stones']",intermediate,no,no,0
+114.13459429281605,footway,paving_stones,intermediate,no,no,0
+8.743388062088982,"['steps', 'footway']",paving_stones,intermediate,no,no,0
+210.1470058952299,footway,paving_stones,intermediate,no,no,0
+60.278606703839756,footway,paving_stones,intermediate,no,no,0
+57.39591565520024,footway,paving_stones,unknown,unknown,yes,1
+57.39591565520024,footway,paving_stones,unknown,unknown,yes,1
+32.788859631926094,footway,"['paving_stones', 'metal']",unknown,unknown,yes,1
+29.525441186261478,footway,paving_stones,excellent,yes,limited,0
+86.01166529374521,footway,paving_stones,excellent,yes,limited,0
+32.942091773178326,footway,paving_stones,unknown,yes,limited,0
+73.08758453669083,footway,paving_stones,unknown,yes,limited,0
+36.298571025783176,footway,paving_stones,excellent,unknown,yes,1
+20.977438558838745,footway,paving_stones,excellent,unknown,yes,1
+29.75502945405211,footway,asphalt,unknown,unknown,yes,1
+25.758931617906242,footway,asphalt,unknown,unknown,yes,1
+65.31200901048794,footway,paving_stones,unknown,unknown,yes,1
+131.48641403665295,footway,paving_stones,unknown,unknown,yes,1
+26.54368744006551,footway,asphalt,unknown,yes,limited,0
+147.29960187481868,footway,asphalt,unknown,yes,limited,0
+23.827747531682416,footway,paving_stones,unknown,yes,yes,1
+15.068314615378148,footway,paving_stones,unknown,yes,yes,1
+65.56621584902567,footway,paving_stones,unknown,yes,yes,1
+23.827747531682416,footway,paving_stones,unknown,yes,yes,1
+67.49504009546385,footway,"['asphalt', 'paving_stones']",excellent,24/7,yes,1
+76.79935464393147,footway,"['asphalt', 'paving_stones', 'metal']","['good', 'excellent']",24/7,yes,1
+67.49504009546384,footway,"['asphalt', 'paving_stones']",excellent,24/7,yes,1
+76.79935464393147,footway,"['asphalt', 'paving_stones', 'metal']","['good', 'excellent']",24/7,yes,1
+47.331374420072315,footway,asphalt,unknown,"['yes', 'no']",yes,1
+2.9425690373501587,"['steps', 'footway']",unknown,unknown,unknown,no,0
+2.9487072391756843,"['steps', 'footway']",unknown,unknown,unknown,no,0
+188.17172509281198,footway,asphalt,unknown,yes,no,0
+188.17172509281198,footway,asphalt,unknown,yes,no,0
+193.07574309617456,footway,asphalt,unknown,yes,no,0
+21.907490431393963,footway,asphalt,unknown,yes,no,0
+193.07574309617456,footway,asphalt,unknown,yes,no,0
+61.23649241133436,footway,asphalt,unknown,yes,no,0
+149.87105050546344,footway,asphalt,unknown,yes,no,0
+61.23649241133436,footway,asphalt,unknown,yes,no,0
+149.87105050546344,footway,asphalt,unknown,yes,no,0
+21.907490431393963,footway,asphalt,unknown,yes,no,0
+2.9425690373501587,"['steps', 'footway']",unknown,unknown,unknown,no,0
+2.9487072391756843,"['steps', 'footway']",unknown,unknown,unknown,no,0
+30.42103413846655,footway,"['asphalt', 'metal']",unknown,unknown,yes,1
+30.421034138466553,footway,"['asphalt', 'metal']",unknown,unknown,yes,1
+47.331374420072315,footway,asphalt,unknown,"['yes', 'no']",yes,1
+5.965471916322141,footway,asphalt,excellent,unknown,no,0
+5.965471916322141,footway,asphalt,excellent,unknown,no,0
+15.89836800053709,"['steps', 'footway']","['asphalt', 'paving_stones']",unknown,unknown,no,0
+12.932899500674623,"['steps', 'footway']","['asphalt', 'paving_stones']",unknown,unknown,no,0
+10.738068359949278,"['steps', 'footway']","['asphalt', 'paving_stones']",unknown,unknown,no,0
+15.89836800053709,"['steps', 'footway']","['asphalt', 'paving_stones']",unknown,unknown,no,0
+36.941846121769835,footway,asphalt,unknown,yes,yes,1
+26.994565369929084,footway,asphalt,unknown,yes,yes,1
+36.941846121769835,footway,asphalt,unknown,yes,yes,1
+26.994565369929084,footway,asphalt,unknown,yes,yes,1
+59.98153040046142,footway,asphalt,unknown,yes,yes,1
+59.98153040046141,footway,asphalt,unknown,yes,yes,1
+25.84110601312088,footway,wood,unknown,unknown,yes,1
+64.61360322592822,footway,unknown,unknown,unknown,yes,1
+12.932899500674623,"['steps', 'footway']","['asphalt', 'paving_stones']",unknown,unknown,no,0
+25.84110601312088,footway,wood,unknown,unknown,yes,1
+64.61360322592822,footway,unknown,unknown,unknown,yes,1
+10.738068359949278,"['steps', 'footway']","['asphalt', 'paving_stones']",unknown,unknown,no,0
+25.475745470807755,footway,"['paved', 'paving_stones']",unknown,unknown,yes,1
+25.47574547080775,footway,"['paved', 'paving_stones']",unknown,unknown,yes,1
+31.66389324934858,footway,unknown,unknown,unknown,yes,1
+31.66389324934858,footway,unknown,unknown,unknown,yes,1
+37.09589459874726,footway,unknown,unknown,unknown,yes,1
+37.09589459874726,footway,unknown,unknown,unknown,yes,1
+37.16951065590779,footway,concrete,unknown,yes,limited,0
+34.25865282857707,footway,concrete,unknown,yes,limited,0
+34.20578428530103,footway,concrete,unknown,yes,limited,0
+37.16951065590779,footway,concrete,unknown,yes,limited,0
+13.110879177993759,footway,concrete,unknown,yes,limited,0
+34.20578428530103,footway,concrete,unknown,yes,limited,0
+11.016880294300016,footway,concrete,unknown,yes,limited,0
+13.110879177993759,footway,concrete,unknown,yes,limited,0
+12.81096560033131,footway,concrete,unknown,yes,limited,0
+11.016880294300016,footway,concrete,unknown,yes,limited,0
+34.25865282857707,footway,concrete,unknown,yes,limited,0
+12.81096560033131,footway,concrete,unknown,yes,limited,0
+18.81580197307037,footway,asphalt,unknown,unknown,limited,0
+23.353980589171332,footway,asphalt,unknown,unknown,limited,0
+18.81580197307037,footway,asphalt,unknown,unknown,limited,0
+36.21213323160075,"['steps', 'footway']","['asphalt', 'concrete']",unknown,unknown,yes,1
+36.21213323160075,"['steps', 'footway']","['asphalt', 'concrete']",unknown,unknown,yes,1
+117.26378353486596,footway,compacted,unknown,unknown,yes,1
+40.12557586479195,service,asphalt,unknown,unknown,yes,1
+57.75950676971259,footway,paved,unknown,unknown,yes,1
+210.29445925933015,service,asphalt,unknown,unknown,yes,1
+29.843798547959224,footway,unknown,unknown,unknown,yes,1
+66.49810185683768,"['path', 'footway']","['asphalt', 'compacted']",unknown,"['yes', 'no']",yes,1
+66.49810185683768,"['path', 'footway']","['asphalt', 'compacted']",unknown,"['yes', 'no']",yes,1
+14.119970723539698,footway,unknown,unknown,unknown,designated,1
+23.353980589171332,footway,asphalt,unknown,unknown,limited,0
+59.335961170825534,footway,asphalt,unknown,no,no,0
+42.7656442058621,footway,asphalt,unknown,no,no,0
+59.335961170825534,footway,asphalt,unknown,no,no,0
+42.7656442058621,footway,asphalt,unknown,no,no,0
+25.5600672934142,footway,asphalt,unknown,no,no,0
+25.5600672934142,footway,asphalt,unknown,no,no,0
+4.243330256607648,footway,unknown,unknown,unknown,yes,1
+43.70303009008168,footway,paving_stones,unknown,unknown,yes,1
+47.46337434489675,footway,asphalt,excellent,yes,yes,1
+47.46337434489675,footway,asphalt,excellent,yes,yes,1
+15.317380993381843,"['steps', 'footway']",asphalt,unknown,yes,no,0
+39.03495356047341,service,asphalt,unknown,unknown,yes,1
+210.29445925933015,service,asphalt,unknown,unknown,yes,1
+4.7569959562167865,service,asphalt,unknown,unknown,yes,1
+117.26378353486596,footway,compacted,unknown,unknown,yes,1
+5.724561178502915,footway,compacted,unknown,unknown,yes,1
+4.685332488802771,service,asphalt,unknown,unknown,yes,1
+43.70303009008168,footway,paving_stones,unknown,unknown,yes,1
+12.109666094504469,"['steps', 'footway']","['asphalt', 'paved']",unknown,yes,no,0
+57.75950676971259,footway,paved,unknown,unknown,yes,1
+4.685332488802771,service,asphalt,unknown,unknown,yes,1
+29.5171856755582,service,asphalt,unknown,unknown,yes,1
+0.7537463544293812,footway,compacted,unknown,unknown,yes,1
+15.771404472124368,footway,compacted,unknown,unknown,yes,1
+125.97802020824004,footway,asphalt,unknown,"['yes', 'no']",limited,0
+125.97802020824004,footway,asphalt,unknown,"['yes', 'no']",limited,0
+73.14876592468093,footway,paving_stones,good,yes,limited,0
+12.996628938673142,footway,paving_stones,"['good', 'excellent']",yes,limited,0
+73.14876592468093,footway,paving_stones,good,yes,limited,0
+50.324294227428496,footway,paving_stones,"['good', 'excellent']",yes,limited,0
+15.317380993381843,"['steps', 'footway']",asphalt,unknown,yes,no,0
+50.324294227428496,footway,paving_stones,"['good', 'excellent']",yes,limited,0
+11.060151203967267,footway,asphalt,unknown,unknown,yes,1
+11.060151203967267,footway,asphalt,unknown,unknown,yes,1
+33.896165916816386,footway,asphalt,unknown,unknown,yes,1
+20.435977747407854,footway,unknown,unknown,unknown,yes,1
+33.89616591681638,footway,asphalt,unknown,unknown,yes,1
+20.435977747407858,footway,unknown,unknown,unknown,yes,1
+292.33780977148433,footway,unknown,unknown,unknown,no,0
+33.29772045387119,footway,unknown,unknown,unknown,no,0
+292.33780977148433,footway,unknown,unknown,unknown,no,0
+33.29772045387119,footway,unknown,unknown,unknown,no,0
+170.19776192641223,footway,unknown,unknown,unknown,no,0
+170.19776192641223,footway,unknown,unknown,unknown,no,0
+18.355935357376165,path,grass,unknown,unknown,no,0
+18.355935357376165,path,grass,unknown,unknown,no,0
+29.725273080710885,footway,unknown,unknown,unknown,yes,1
+65.08228859204502,footway,asphalt,unknown,yes,limited,0
+29.843798547959224,footway,unknown,unknown,unknown,yes,1
+29.725273080710885,footway,unknown,unknown,unknown,yes,1
+46.78904614771099,footway,asphalt,unknown,yes,yes,1
+15.771404472124368,footway,compacted,unknown,unknown,yes,1
+9.696416823913383,footway,compacted,unknown,unknown,yes,1
+39.03495356047341,service,asphalt,unknown,unknown,yes,1
+40.12557586479195,service,asphalt,unknown,unknown,yes,1
+10.686206702902568,footway,compacted,unknown,unknown,yes,1
+29.5171856755582,service,asphalt,unknown,unknown,yes,1
+4.7569959562167865,service,asphalt,unknown,unknown,yes,1
+5.724561178502915,footway,compacted,unknown,unknown,yes,1
+0.7537463544293812,footway,compacted,unknown,unknown,yes,1
+9.696416823913383,footway,compacted,unknown,unknown,yes,1
+10.686206702902568,footway,compacted,unknown,unknown,yes,1
+4.243330256607648,footway,unknown,unknown,unknown,yes,1
+12.996628938673142,footway,paving_stones,"['good', 'excellent']",yes,limited,0
+34.51302414387601,footway,"['asphalt', 'concrete:plates']",unknown,unknown,limited,0
+14.119970723539698,footway,unknown,unknown,unknown,designated,1
+12.10966609450447,"['steps', 'footway']","['asphalt', 'paved']",unknown,yes,no,0
+24.999862565508778,footway,"['asphalt', 'concrete']",unknown,yes,yes,1
+24.999862565508778,footway,"['asphalt', 'concrete']",unknown,yes,yes,1
+25.605205730742853,footway,"['asphalt', 'concrete']",unknown,yes,yes,1
+25.605205730742853,footway,"['asphalt', 'concrete']",unknown,yes,yes,1
+23.403407005303137,footway,"['paving_stones', 'metal_grid']",unknown,no,yes,1
+23.40340700530314,footway,"['paving_stones', 'metal_grid']",unknown,no,yes,1
+34.51302414387601,footway,"['asphalt', 'concrete:plates']",unknown,unknown,limited,0
+65.08228859204502,footway,asphalt,unknown,yes,limited,0
+46.78904614771099,footway,asphalt,unknown,yes,yes,1
+176.856865578029,"['path', 'footway']","['asphalt', 'concrete:lanes']",unknown,unknown,yes,1
+44.03136576881688,footway,asphalt,unknown,unknown,yes,1
+44.03136576881688,footway,asphalt,unknown,unknown,yes,1
+139.21187005391542,"['steps', 'footway']",asphalt,unknown,unknown,no,0
+34.047636257661274,footway,asphalt,unknown,unknown,yes,1
+34.047636257661274,footway,asphalt,unknown,unknown,yes,1
+139.21187005391542,"['steps', 'footway']",asphalt,unknown,unknown,no,0
+183.28494204564805,footway,asphalt,unknown,unknown,yes,1
+176.856865578029,"['path', 'footway']","['asphalt', 'concrete:lanes']",unknown,unknown,yes,1
+16.859699913295795,footway,asphalt,unknown,no,yes,1
+16.859699913295795,footway,asphalt,unknown,no,yes,1
+189.05357703024129,footway,"['asphalt', 'gravel']",unknown,unknown,yes,1
+183.28494204564805,footway,asphalt,unknown,unknown,yes,1
+67.86479128721737,"['steps', 'footway']",unknown,unknown,unknown,no,0
+67.86479128721736,"['steps', 'footway']",unknown,unknown,unknown,no,0
+24.16338105610671,"['steps', 'footway']",unknown,unknown,unknown,no,0
+24.16338105610671,"['steps', 'footway']",unknown,unknown,unknown,no,0
+43.599902953098855,"['steps', 'footway']",unknown,unknown,unknown,no,0
+43.599902953098855,"['steps', 'footway']",unknown,unknown,unknown,no,0
+35.59611011887473,"['steps', 'footway']","['asphalt', 'paving_stones']",unknown,unknown,no,0
+18.0564143239146,"['steps', 'footway']",unknown,unknown,unknown,no,0
+86.54499149908139,"['steps', 'footway']",paving_stones,unknown,unknown,no,0
+18.0564143239146,"['steps', 'footway']",unknown,unknown,unknown,no,0
+35.59611011887473,"['steps', 'footway']","['asphalt', 'paving_stones']",unknown,unknown,no,0
+86.54499149908139,"['steps', 'footway']",paving_stones,unknown,unknown,no,0
+90.7570896667336,"['service', 'steps', 'footway']","['asphalt', 'paving_stones']",unknown,unknown,no,0
+90.7570896667336,"['service', 'steps', 'footway']","['asphalt', 'paving_stones']",unknown,unknown,no,0
+20.034780973479656,footway,unknown,unknown,unknown,yes,1
+20.034780973479656,footway,unknown,unknown,unknown,yes,1
+14.204375337263151,footway,"['paving_stones', 'metal']",unknown,unknown,yes,1
+14.204375337263151,footway,"['paving_stones', 'metal']",unknown,unknown,yes,1
+10.700915709061533,footway,metal,unknown,unknown,yes,1
+10.700915709061533,footway,metal,unknown,unknown,yes,1
+189.0535770302413,footway,"['asphalt', 'gravel']",unknown,unknown,yes,1
+71.5783473711856,footway,paving_stones,unknown,yes,yes,1
+71.57834737118561,footway,paving_stones,unknown,yes,yes,1
+61.94206149690104,footway,paving_stones,unknown,yes,yes,1
+43.59697304470157,footway,"['asphalt', 'paving_stones', 'metal_grid']",excellent,unknown,yes,1
+61.94206149690104,footway,paving_stones,unknown,yes,yes,1
+57.27710356285458,footway,paving_stones,unknown,unknown,yes,1
+57.277103562854585,footway,paving_stones,unknown,unknown,yes,1
+31.450249819252882,footway,"['paving_stones', 'metal_grid']",unknown,unknown,yes,1
+31.450249819252882,footway,"['paving_stones', 'metal_grid']",unknown,unknown,yes,1
+21.773527375339206,footway,asphalt,unknown,unknown,yes,1
+21.773527375339206,footway,asphalt,unknown,unknown,yes,1
+43.59697304470158,footway,"['asphalt', 'paving_stones', 'metal_grid']",excellent,unknown,yes,1
+22.229698994744936,footway,asphalt,unknown,unknown,yes,1
+22.229698994744936,footway,asphalt,unknown,unknown,yes,1
+44.68673248387295,footway,unknown,unknown,unknown,yes,1
+44.68673248387295,footway,unknown,unknown,unknown,yes,1
+16.065264326517255,footway,asphalt,unknown,unknown,yes,1
+16.065264326517255,footway,asphalt,unknown,unknown,yes,1
+18.88018044620892,"['steps', 'footway']",asphalt,unknown,unknown,no,0
+46.698545243157895,footway,unknown,unknown,unknown,yes,1
+18.88018044620892,"['steps', 'footway']",asphalt,unknown,unknown,no,0
+13.657185328532213,"['steps', 'footway']",unknown,unknown,unknown,no,0
+13.657185328532213,"['steps', 'footway']",unknown,unknown,unknown,no,0
+49.97748235457461,footway,unknown,unknown,unknown,yes,1
+43.3349177182457,"['steps', 'footway']","['paving_stones', 'concrete']",intermediate,no,no,0
+56.33419793368759,"['steps', 'footway']",unknown,unknown,unknown,no,0
+52.21800165853061,footway,unknown,unknown,unknown,yes,1
+56.91270518691535,"['steps', 'footway']",unknown,unknown,unknown,no,0
+50.87013329907174,footway,unknown,unknown,unknown,no,0
+11.669115072680722,footway,unknown,unknown,unknown,no,0
+11.669115072680722,footway,unknown,unknown,unknown,no,0
+53.76599387105735,footway,unknown,unknown,unknown,no,0
+53.47798021079807,footway,unknown,unknown,unknown,no,0
+173.93984135075647,footway,unknown,unknown,unknown,no,0
+26.218248111530848,footway,unknown,unknown,unknown,no,0
+26.218248111530848,footway,unknown,unknown,unknown,no,0
+87.00019984453952,footway,unknown,unknown,unknown,no,0
+87.00019984453952,footway,unknown,unknown,unknown,no,0
+50.87013329907174,footway,unknown,unknown,unknown,no,0
+41.138196667366955,footway,unknown,unknown,unknown,no,0
+41.138196667366955,footway,unknown,unknown,unknown,no,0
+141.36116103283575,footway,unknown,unknown,unknown,no,0
+93.45571941070853,footway,unknown,unknown,unknown,no,0
+141.36116103283575,footway,unknown,unknown,unknown,no,0
+93.45571941070853,footway,unknown,unknown,unknown,no,0
+40.91409260704453,footway,unknown,unknown,unknown,no,0
+40.91409260704453,footway,unknown,unknown,unknown,no,0
+120.08449925102617,footway,unknown,unknown,unknown,no,0
+120.08449925102617,footway,unknown,unknown,unknown,no,0
+116.69345583240396,footway,unknown,unknown,unknown,no,0
+50.413354980084776,footway,unknown,unknown,unknown,no,0
+53.76599387105735,footway,unknown,unknown,unknown,no,0
+116.69345583240396,footway,unknown,unknown,unknown,no,0
+50.413354980084776,footway,unknown,unknown,unknown,no,0
+109.7660420968583,footway,asphalt,unknown,unknown,no,0
+132.1288113971636,footway,asphalt,unknown,unknown,no,0
+55.88162097629351,footway,asphalt,unknown,unknown,no,0
+132.1288113971636,footway,asphalt,unknown,unknown,no,0
+55.88162097629351,footway,asphalt,unknown,unknown,no,0
+57.26639052320043,footway,asphalt,unknown,unknown,no,0
+97.4344155352326,footway,asphalt,unknown,unknown,no,0
+109.7660420968583,footway,asphalt,unknown,unknown,no,0
+57.26639052320043,footway,asphalt,unknown,unknown,no,0
+105.07073804340057,footway,asphalt,unknown,unknown,no,0
+105.07073804340057,footway,asphalt,unknown,unknown,no,0
+39.87443839939185,footway,asphalt,unknown,unknown,no,0
+39.87443839939185,footway,asphalt,unknown,unknown,no,0
+59.2625311954514,footway,asphalt,unknown,unknown,no,0
+59.2625311954514,footway,asphalt,unknown,unknown,no,0
+45.592087319968954,footway,asphalt,unknown,unknown,no,0
+16.41143244022365,footway,asphalt,unknown,unknown,no,0
+18.20054031668567,footway,asphalt,unknown,unknown,no,0
+16.41143244022365,footway,asphalt,unknown,unknown,no,0
+51.99563468617856,footway,asphalt,unknown,unknown,no,0
+25.27007700852803,footway,asphalt,unknown,unknown,no,0
+51.99563468617856,footway,asphalt,unknown,unknown,no,0
+25.27007700852803,footway,asphalt,unknown,unknown,no,0
+97.4344155352326,footway,asphalt,unknown,unknown,no,0
+43.3349177182457,"['steps', 'footway']","['paving_stones', 'concrete']",intermediate,no,no,0
+34.8037700249754,footway,"['asphalt', 'fine_gravel']",unknown,unknown,yes,1
+34.8037700249754,footway,"['asphalt', 'fine_gravel']",unknown,unknown,yes,1
+67.5338761555884,footway,unknown,unknown,yes,yes,1
+67.5338761555884,footway,unknown,unknown,yes,yes,1
+32.23218648349177,footway,asphalt,unknown,yes,yes,1
+32.23218648349178,footway,asphalt,unknown,yes,yes,1
+22.514786276994773,footway,unknown,unknown,unknown,yes,1
+22.514786276994773,footway,unknown,unknown,unknown,yes,1
+36.898743077171304,footway,unknown,unknown,unknown,no,0
+36.898743077171304,footway,unknown,unknown,unknown,no,0
+56.33419793368759,"['steps', 'footway']",unknown,unknown,unknown,no,0
+24.094131426352533,footway,asphalt,unknown,yes,yes,1
+24.094131426352533,footway,asphalt,unknown,yes,yes,1
+23.968567754499755,footway,asphalt,unknown,yes,yes,1
+56.91270518691535,"['steps', 'footway']",unknown,unknown,unknown,no,0
+57.611315496498705,footway,asphalt,unknown,unknown,yes,1
+41.44988655701042,footway,asphalt,unknown,no,yes,1
+49.97748235457461,footway,unknown,unknown,unknown,yes,1
+41.44988655701042,footway,asphalt,unknown,no,yes,1
+46.69854524315789,footway,unknown,unknown,unknown,yes,1
+23.968567754499755,footway,asphalt,unknown,yes,yes,1
+57.61131549649872,footway,asphalt,unknown,unknown,yes,1
+52.21800165853062,footway,unknown,unknown,unknown,yes,1
+23.23805573545887,footway,unknown,unknown,unknown,yes,1
+23.23805573545887,footway,unknown,unknown,unknown,yes,1
+29.104076694394436,footway,unknown,unknown,unknown,yes,1
+29.104076694394436,footway,unknown,unknown,unknown,yes,1
+19.937830677132297,footway,metal,unknown,unknown,yes,1
+19.937830677132297,footway,metal,unknown,unknown,yes,1
+53.47798021079807,footway,unknown,unknown,unknown,no,0
+173.93984135075647,footway,unknown,unknown,unknown,no,0
+27.723188892368647,footway,"['asphalt', 'paving_stones']",unknown,unknown,yes,1
+27.72318889236865,footway,"['asphalt', 'paving_stones']",unknown,unknown,yes,1
+45.592087319968954,footway,asphalt,unknown,unknown,no,0
+18.20054031668567,footway,asphalt,unknown,unknown,no,0
+97.09179602514811,"['steps', 'path']","['wood', 'ground']",unknown,unknown,no,0
+97.09179602514808,"['steps', 'path']","['wood', 'ground']",unknown,unknown,no,0
+7.308016767346536,service,asphalt,unknown,unknown,yes,1
+28.028353409729213,service,asphalt,unknown,unknown,yes,1
+24.763881946215225,footway,"['asphalt', 'paving_stones']",unknown,yes,yes,1
+172.33420804339022,"['service', 'footway']","['asphalt', 'fine_gravel', 'compacted', 'gravel']","['bad', 'intermediate']",no,no,0
+90.46308025771391,"['steps', 'footway']","['wood', 'ground']",unknown,unknown,no,0
+53.660303123635245,"['steps', 'path', 'footway']","['wood', 'ground']",unknown,unknown,no,0
+93.31094885179827,steps,wood,unknown,unknown,no,0
+9.593530884134635,"['steps', 'footway']","['wood', 'gravel']",unknown,unknown,no,0
+134.27965885803127,"['steps', 'residential', 'footway']","['fine_gravel', 'compacted', 'concrete']",intermediate,"['yes', 'no']",no,0
+42.28977495246257,footway,asphalt,good,unknown,no,0
+172.33420804339025,"['service', 'footway']","['asphalt', 'fine_gravel', 'compacted', 'gravel']","['bad', 'intermediate']",no,no,0
+55.84174532446451,footway,asphalt,unknown,yes,yes,1
+46.76871331950367,footway,asphalt,unknown,unknown,no,0
+134.27965885803124,"['steps', 'residential', 'footway']","['fine_gravel', 'compacted', 'concrete']",intermediate,"['yes', 'no']",no,0
+56.96964801575911,steps,wood,unknown,unknown,no,0
+56.96964801575911,steps,wood,unknown,unknown,no,0
+90.46308025771391,"['steps', 'footway']","['wood', 'ground']",unknown,unknown,no,0
+93.31094885179827,steps,wood,unknown,unknown,no,0
+28.028353409729213,service,asphalt,unknown,unknown,yes,1
+7.308016767346536,service,asphalt,unknown,unknown,yes,1
+31.332097618172497,footway,unknown,unknown,unknown,yes,1
+31.332097618172497,footway,unknown,unknown,unknown,yes,1
+9.593530884134635,"['steps', 'footway']","['wood', 'gravel']",unknown,unknown,no,0
+94.21857526682888,"['steps', 'footway']",asphalt,unknown,yes,limited,0
+46.76871331950367,footway,asphalt,unknown,unknown,no,0
+49.57974614911004,footway,asphalt,unknown,unknown,designated,1
+49.57974614911004,footway,asphalt,unknown,unknown,designated,1
+24.76388194621522,footway,"['asphalt', 'paving_stones']",unknown,yes,yes,1
+17.273323212294518,footway,"['asphalt', 'paving_stones']",good,unknown,yes,1
+17.273323212294518,footway,"['asphalt', 'paving_stones']",good,unknown,yes,1
+21.34712760345343,footway,unknown,unknown,unknown,designated,1
+21.34712760345343,footway,unknown,unknown,unknown,designated,1
+131.88269469903975,"['steps', 'footway']","['asphalt', 'concrete']",excellent,"['yes', 'no']",no,0
+21.79549029784996,footway,asphalt,unknown,yes,yes,1
+55.841745324464505,footway,asphalt,unknown,yes,yes,1
+81.9884215185962,footway,asphalt,unknown,yes,yes,1
+21.79549029784996,footway,asphalt,unknown,yes,yes,1
+81.9884215185962,footway,asphalt,unknown,yes,yes,1
+5.132067833788181,footway,unknown,unknown,unknown,yes,1
+5.132067833788181,footway,unknown,unknown,unknown,yes,1
+94.21857526682888,"['steps', 'footway']",asphalt,unknown,yes,limited,0
+131.88269469903975,"['steps', 'footway']","['asphalt', 'concrete']",excellent,"['yes', 'no']",no,0
+53.660303123635245,"['steps', 'path', 'footway']","['wood', 'ground']",unknown,unknown,no,0
+42.289774952462565,footway,asphalt,good,unknown,no,0
+45.200836359307004,footway,asphalt,unknown,unknown,no,0
+45.20083635930701,footway,asphalt,unknown,unknown,no,0
+39.73998293215346,footway,asphalt,unknown,unknown,no,0
+61.46807011680346,footway,asphalt,unknown,yes,yes,1
+61.468070116803446,footway,asphalt,unknown,yes,yes,1
+39.73998293215345,footway,asphalt,unknown,unknown,no,0
+49.566567543067215,path,dirt,bad,no,no,0
+61.700806951933124,path,dirt,bad,no,no,0
+37.281151943124364,"['steps', 'footway']","['asphalt', 'paving_stones']","['good', 'excellent']","['yes', '24/7']",no,0
+42.54302458290094,footway,asphalt,unknown,yes,no,0
+50.820548939354595,path,dirt,bad,no,no,0
+5.8563596628728485,footway,asphalt,unknown,unknown,yes,1
+13.220708191206231,footway,asphalt,unknown,unknown,yes,1
+36.03884680678179,footway,asphalt,unknown,unknown,yes,1
+5.8563596628728485,footway,asphalt,unknown,unknown,yes,1
+36.03884680678179,footway,asphalt,unknown,unknown,yes,1
+13.220708191206231,footway,asphalt,unknown,unknown,yes,1
+0.4671529009472907,footway,unknown,unknown,unknown,yes,1
+27.621564276564044,footway,unknown,unknown,unknown,yes,1
+0.4671529009472907,footway,unknown,unknown,unknown,yes,1
+27.621564276564044,footway,unknown,unknown,unknown,yes,1
+8.940494789789712,footway,"['asphalt', 'paving_stones']",good,unknown,yes,1
+37.28115194312437,"['steps', 'footway']","['asphalt', 'paving_stones']","['good', 'excellent']","['yes', '24/7']",no,0
+34.86717755533334,path,dirt,bad,no,no,0
+61.700806951933124,path,dirt,bad,no,no,0
+78.60613580792344,path,dirt,bad,no,no,0
+49.566567543067215,path,dirt,bad,no,no,0
+7.394643589710349,path,dirt,bad,no,no,0
+78.60613580792342,path,dirt,bad,no,no,0
+103.38674765421312,path,dirt,bad,no,no,0
+6.729552977828545,path,dirt,bad,no,no,0
+32.14210557144728,path,dirt,bad,no,no,0
+50.820548939354595,path,dirt,bad,no,no,0
+29.31973553206761,path,dirt,bad,no,no,0
+103.38674765421312,path,dirt,bad,no,no,0
+22.01065783725769,path,dirt,bad,no,no,0
+22.01065783725769,path,dirt,bad,no,no,0
+32.14210557144728,path,dirt,bad,no,no,0
+51.66352566164133,path,dirt,bad,no,no,0
+34.86717755533334,path,dirt,bad,no,no,0
+29.31973553206761,path,dirt,bad,no,no,0
+51.66352566164133,path,dirt,bad,no,no,0
+62.31368661321639,path,dirt,bad,no,no,0
+7.394643589710349,path,dirt,bad,no,no,0
+6.729552977828545,path,dirt,bad,no,no,0
+62.31368661321638,path,dirt,bad,no,no,0
+12.10000371050052,elevator,unknown,unknown,unknown,designated,1
+12.100003710500523,elevator,unknown,unknown,unknown,designated,1
+9.96830221099915,elevator,unknown,unknown,unknown,designated,1
+9.96830221099915,elevator,unknown,unknown,unknown,designated,1
+9.355636201071455,elevator,unknown,unknown,unknown,designated,1
+9.355636201071453,elevator,unknown,unknown,unknown,designated,1
+10.958142308646508,elevator,unknown,unknown,unknown,designated,1
+10.958142308646508,elevator,unknown,unknown,unknown,designated,1
+66.56880825056871,footway,asphalt,unknown,yes,no,0
+27.751838207973222,steps,concrete,unknown,yes,yes,1
+27.751838207973222,steps,concrete,unknown,yes,yes,1
+8.94049478978971,footway,"['asphalt', 'paving_stones']",good,unknown,yes,1
+42.54302458290094,footway,asphalt,unknown,yes,no,0
+66.56880825056871,footway,asphalt,unknown,yes,no,0
+34.21020077138255,"['steps', 'footway']",paving_stones,unknown,unknown,yes,1
+15.374919940051905,"['steps', 'footway']","['asphalt', 'concrete']",unknown,unknown,yes,1
+15.374919940051905,"['steps', 'footway']","['asphalt', 'concrete']",unknown,unknown,yes,1
+16.175252544066925,footway,unknown,unknown,unknown,yes,1
+16.175252544066925,footway,unknown,unknown,unknown,yes,1
+30.761587725629532,footway,asphalt,unknown,yes,yes,1
+27.20829015953418,footway,unknown,unknown,unknown,yes,1
+4.69014464788583,"['steps', 'footway']",paving_stones,unknown,yes,no,0
+0.48573445930744374,footway,paving_stones,unknown,yes,yes,1
+13.683826083265235,footway,paving_stones,unknown,yes,yes,1
+1.6763446956459682,footway,paving_stones,unknown,yes,yes,1
+13.683826083265235,footway,paving_stones,unknown,yes,yes,1
+4.69014464788583,"['steps', 'footway']",paving_stones,unknown,yes,no,0
+34.21020077138255,"['steps', 'footway']",paving_stones,unknown,unknown,yes,1
+30.761587725629536,footway,asphalt,unknown,yes,yes,1
+27.208290159534183,footway,unknown,unknown,unknown,yes,1
+10.598795723232964,"['path', 'footway']","['asphalt', 'ground']",excellent,unknown,yes,1
+7.37698823176693,footway,"['asphalt', 'concrete']",excellent,unknown,yes,1
+10.598795723232964,"['path', 'footway']","['asphalt', 'ground']",excellent,unknown,yes,1
+11.497581533757781,footway,asphalt,unknown,yes,no,0
+11.497581533757781,footway,asphalt,unknown,yes,no,0
+7.37698823176693,footway,"['asphalt', 'concrete']",excellent,unknown,yes,1
+0.48573445930744374,footway,paving_stones,unknown,yes,yes,1
+1.6763446956459682,footway,paving_stones,unknown,yes,yes,1
+15.516171141172954,"['steps', 'footway']",paving_stones,good,yes,yes,1
+15.516171141172954,"['steps', 'footway']",paving_stones,good,yes,yes,1
+2.7381477834764434,steps,paving_stones,unknown,unknown,no,0
+25.5622335138397,footway,"['asphalt', 'paving_stones']",unknown,"['yes', 'no']",yes,1
+36.4857973523537,footway,paving_stones,excellent,no,yes,1
+23.0370565355273,footway,paving_stones,excellent,yes,yes,1
+32.14966233055678,footway,"['asphalt', 'paving_stones']",unknown,yes,yes,1
+17.303838402098986,footway,paving_stones,excellent,unknown,yes,1
+16.723597332574577,footway,paving_stones,excellent,unknown,yes,1
+23.060339425515604,footway,paving_stones,excellent,yes,yes,1
+38.151977229994074,footway,paving_stones,excellent,unknown,yes,1
+17.303838402098986,footway,paving_stones,excellent,unknown,yes,1
+23.060339425515604,footway,paving_stones,excellent,yes,yes,1
+16.723597332574577,footway,paving_stones,excellent,unknown,yes,1
+38.151977229994074,footway,paving_stones,excellent,unknown,yes,1
+56.65353668381555,footway,asphalt,unknown,unknown,no,0
+4.464450643043733,"['steps', 'footway']",paving_stones,good,unknown,no,0
+0.8617480097592692,steps,unknown,unknown,unknown,no,0
+4.464450643043733,"['steps', 'footway']",paving_stones,good,unknown,no,0
+4.6602193571629416,steps,unknown,unknown,unknown,no,0
+4.6602193571629416,steps,unknown,unknown,unknown,no,0
+2.7381477834764434,steps,paving_stones,unknown,unknown,no,0
+23.0370565355273,footway,paving_stones,excellent,yes,yes,1
+54.025473693915586,footway,asphalt,unknown,unknown,no,0
+93.04323073084129,footway,asphalt,unknown,unknown,no,0
+93.04323073084129,footway,asphalt,unknown,unknown,no,0
+108.59319312595768,footway,asphalt,unknown,unknown,no,0
+9.556366413827211,footway,asphalt,unknown,unknown,no,0
+0.8617480097592692,steps,unknown,unknown,unknown,no,0
+55.12394794708361,footway,paving_stones,unknown,yes,yes,1
+55.12394794708361,footway,paving_stones,unknown,yes,yes,1
+32.14966233055678,footway,"['asphalt', 'paving_stones']",unknown,yes,yes,1
+25.5622335138397,footway,"['asphalt', 'paving_stones']",unknown,"['yes', 'no']",yes,1
+14.89024250424188,footway,paving_stones,excellent,yes,yes,1
+14.89024250424188,footway,paving_stones,excellent,yes,yes,1
+36.4857973523537,footway,paving_stones,excellent,no,yes,1
+24.49649689067847,footway,asphalt,unknown,unknown,no,0
+54.025473693915586,footway,asphalt,unknown,unknown,no,0
+108.59319312595768,footway,asphalt,unknown,unknown,no,0
+9.556366413827211,footway,asphalt,unknown,unknown,no,0
+24.49649689067847,footway,asphalt,unknown,unknown,no,0
+56.65353668381555,footway,asphalt,unknown,unknown,no,0
+27.298584809402698,footway,unknown,unknown,unknown,yes,1
+27.298584809402698,footway,unknown,unknown,unknown,yes,1
+25.70124659442197,footway,paving_stones,unknown,yes,yes,1
+74.74774682439674,footway,paving_stones,unknown,yes,yes,1
+16.819267582941066,footway,paving_stones,unknown,yes,yes,1
+68.96197409527838,footway,paving_stones,unknown,yes,yes,1
+49.347286018941425,footway,wood,intermediate,unknown,no,0
+46.15638287619513,service,asphalt,unknown,unknown,yes,1
+70.76410729199571,service,asphalt,unknown,unknown,yes,1
+70.3987196629396,service,asphalt,unknown,unknown,yes,1
+75.87044142843773,service,asphalt,unknown,unknown,yes,1
+139.79220150310982,service,asphalt,unknown,unknown,yes,1
+312.3056980620618,service,asphalt,unknown,unknown,yes,1
+25.70124659442197,footway,paving_stones,unknown,yes,yes,1
+5.817218657539021,footway,paving_stones,unknown,yes,yes,1
+14.489718464021614,"['steps', 'footway']",asphalt,unknown,unknown,yes,1
+74.74774682439674,footway,paving_stones,unknown,yes,yes,1
+4.695155063970845,footway,concrete,unknown,yes,designated,1
+3.7433175552320894,footway,concrete,excellent,yes,designated,1
+68.96197409527838,footway,paving_stones,unknown,yes,yes,1
+3.1365108211505515,footway,unknown,unknown,unknown,yes,1
+5.093400342636794,footway,unknown,unknown,unknown,yes,1
+70.76410729199571,service,asphalt,unknown,unknown,yes,1
+58.53676161099219,service,asphalt,unknown,unknown,yes,1
+46.15638287619513,service,asphalt,unknown,unknown,yes,1
+139.79220150310982,service,asphalt,unknown,unknown,yes,1
+5.817218657539021,footway,paving_stones,unknown,yes,yes,1
+16.819267582941066,footway,paving_stones,unknown,yes,yes,1
+34.458913863700424,path,ground,very_bad,no,no,0
+37.910736333187174,footway,asphalt,unknown,unknown,yes,1
+37.910736333187174,footway,asphalt,unknown,unknown,yes,1
+49.73724242555038,footway,paving_stones,unknown,unknown,yes,1
+49.73724242555038,footway,paving_stones,unknown,unknown,yes,1
+6.0949989531454785,footway,paving_stones,good,no,no,0
+16.868335512994975,"['steps', 'footway']",unknown,unknown,unknown,no,0
+16.868335512994975,"['steps', 'footway']",unknown,unknown,unknown,no,0
+1145.5983762105502,"['path', 'footway']","['asphalt', 'wood', 'ground']","['excellent', 'intermediate']",unknown,yes,1
+16.318701319585756,footway,concrete,unknown,yes,yes,1
+16.318701319585756,footway,concrete,unknown,yes,yes,1
+3.7433175552320894,footway,concrete,excellent,yes,designated,1
+4.695155063970845,footway,concrete,unknown,yes,designated,1
+44.79563428629521,footway,paving_stones,unknown,yes,yes,1
+44.79563428629522,footway,paving_stones,unknown,yes,yes,1
+1145.5983762105498,"['path', 'footway']","['wood', 'asphalt', 'ground']","['excellent', 'intermediate']",unknown,yes,1
+25.173680795285147,footway,fine_gravel,intermediate,yes,limited,0
+6.0949989531454785,footway,paving_stones,good,no,no,0
+27.449020623161424,footway,paving_stones,good,no,no,0
+5.093400342636794,footway,unknown,unknown,unknown,yes,1
+3.1365108211505515,footway,unknown,unknown,unknown,yes,1
+25.639438066988333,footway,paving_stones,excellent,no,no,0
+14.489718464021614,"['steps', 'footway']",asphalt,unknown,unknown,yes,1
+49.347286018941425,footway,wood,intermediate,unknown,no,0
+58.53676161099219,service,asphalt,unknown,unknown,yes,1
+70.3987196629396,service,asphalt,unknown,unknown,yes,1
+312.3056980620618,service,asphalt,unknown,unknown,yes,1
+75.87044142843773,service,asphalt,unknown,unknown,yes,1
+27.449020623161424,footway,paving_stones,good,no,no,0
+46.69454208233666,"['steps', 'footway']",wood,intermediate,no,no,0
+46.69454208233667,"['steps', 'footway']",wood,intermediate,no,no,0
+25.639438066988333,footway,paving_stones,excellent,no,no,0
+35.64464130557073,footway,fine_gravel,intermediate,yes,limited,0
+26.40848793874121,"['steps', 'footway']","['paving_stones', 'fine_gravel']",intermediate,yes,limited,0
+35.64464130557073,footway,fine_gravel,intermediate,yes,limited,0
+25.173680795285147,footway,fine_gravel,intermediate,yes,limited,0
+26.40848793874121,"['steps', 'footway']","['fine_gravel', 'paving_stones']",intermediate,yes,limited,0
+34.458913863700424,path,ground,very_bad,no,no,0
+29.46999454292382,path,ground,intermediate,no,no,0
+29.46999454292382,path,ground,intermediate,no,no,0
+131.67100636671793,path,compacted,intermediate,unknown,limited,0
+131.67100636671793,path,compacted,intermediate,unknown,limited,0
+21.154272540466458,"['steps', 'footway']",asphalt,"['good', 'excellent']","['yes', '24/7', 'no']",no,0
+21.154272540466458,"['steps', 'footway']",asphalt,"['good', 'excellent']","['yes', '24/7', 'no']",no,0
+9.956202107578068,footway,unknown,unknown,unknown,yes,1
+9.956202107578068,footway,unknown,unknown,unknown,yes,1
+19.164015181522018,footway,"['asphalt', 'metal']",unknown,unknown,yes,1
+19.164015181522014,footway,"['asphalt', 'metal']",unknown,unknown,yes,1
+17.910628880534652,footway,"['asphalt', 'paving_stones']",unknown,unknown,yes,1
+17.910628880534652,footway,"['asphalt', 'paving_stones']",unknown,unknown,yes,1
+12.546017628786874,footway,"['paving_stones', 'metal_grid']",unknown,unknown,yes,1
+16.189384493895673,footway,"['asphalt', 'metal']",unknown,unknown,yes,1
+16.189384493895673,footway,"['asphalt', 'metal']",unknown,unknown,yes,1
+43.21940684060993,footway,unknown,unknown,unknown,yes,1
+43.21940684060993,footway,unknown,unknown,unknown,yes,1
+19.35927159601256,footway,"['asphalt', 'paving_stones']",unknown,unknown,yes,1
+19.35927159601256,footway,"['asphalt', 'paving_stones']",unknown,unknown,yes,1
+15.931532278490572,footway,paving_stones,unknown,unknown,yes,1
+15.931532278490572,footway,paving_stones,unknown,unknown,yes,1
+10.06247125255469,footway,"['asphalt', 'paving_stones']",unknown,yes,yes,1
+8.277508781781155,footway,"['asphalt', 'paving_stones']",unknown,yes,yes,1
+10.062471252554689,footway,"['asphalt', 'paving_stones']",unknown,yes,yes,1
+8.277508781781155,footway,"['asphalt', 'paving_stones']",unknown,yes,yes,1
+15.218469930091235,footway,paving_stones,unknown,yes,yes,1
+13.463061205604205,footway,"['asphalt', 'paving_stones']",unknown,yes,yes,1
+13.463061205604205,footway,"['asphalt', 'paving_stones']",unknown,yes,yes,1
+6.650616674330545,footway,paving_stones,unknown,unknown,yes,1
+6.6040470370941895,footway,paving_stones,unknown,unknown,yes,1
+6.650616674330545,footway,paving_stones,unknown,unknown,yes,1
+6.6040470370941895,footway,paving_stones,unknown,unknown,yes,1
+15.218469930091235,footway,paving_stones,unknown,yes,yes,1
+10.29508899249036,footway,"['asphalt', 'paving_stones']",unknown,unknown,yes,1
+10.473941884396927,footway,"['asphalt', 'paving_stones']",unknown,unknown,yes,1
+10.473941884396927,footway,"['asphalt', 'paving_stones']",unknown,unknown,yes,1
+10.29508899249036,footway,"['asphalt', 'paving_stones']",unknown,unknown,yes,1
+13.078040573635578,footway,"['asphalt', 'paving_stones']",unknown,unknown,yes,1
+15.218974788303962,footway,"['asphalt', 'paving_stones']",unknown,unknown,yes,1
+15.218974788303962,footway,"['asphalt', 'paving_stones']",unknown,unknown,yes,1
+13.078040573635578,footway,"['asphalt', 'paving_stones']",unknown,unknown,yes,1
+6.6610531128370845,footway,paving_stones,unknown,unknown,yes,1
+6.6039165799345945,footway,paving_stones,unknown,unknown,yes,1
+6.6610531128370845,footway,paving_stones,unknown,unknown,yes,1
+6.6039165799345945,footway,paving_stones,unknown,unknown,yes,1
+11.561558951314524,footway,"['asphalt', 'paving_stones']",unknown,unknown,yes,1
+11.936794490769671,footway,"['asphalt', 'paving_stones']",unknown,unknown,yes,1
+11.93679449076967,footway,"['asphalt', 'paving_stones']",unknown,unknown,yes,1
+11.561558951314522,footway,"['asphalt', 'paving_stones']",unknown,unknown,yes,1
+13.630189927340163,footway,"['asphalt', 'paving_stones']",unknown,unknown,yes,1
+6.606450855452321,footway,"['asphalt', 'paving_stones']",unknown,unknown,yes,1
+13.630189927340163,footway,"['asphalt', 'paving_stones']",unknown,unknown,yes,1
+6.604034875582951,footway,paving_stones,unknown,unknown,yes,1
+6.604034875582951,footway,paving_stones,unknown,unknown,yes,1
+6.650604434111283,footway,paving_stones,unknown,unknown,yes,1
+6.650604434111283,footway,paving_stones,unknown,unknown,yes,1
+20.052512471230422,footway,unknown,unknown,unknown,yes,1
+20.052512471230422,footway,unknown,unknown,unknown,yes,1
+39.917306236111756,footway,paving_stones,unknown,unknown,yes,1
+39.917306236111756,footway,paving_stones,unknown,unknown,yes,1
+12.546017628786874,footway,"['paving_stones', 'metal_grid']",unknown,unknown,yes,1
+7.357743348652718,"['steps', 'footway']","['paving_stones', 'metal_grid']",unknown,unknown,no,0
+7.357743348652718,"['steps', 'footway']","['paving_stones', 'metal_grid']",unknown,unknown,no,0
+6.636662820070029,footway,paving_stones,unknown,unknown,designated,1
+6.636662820070029,footway,paving_stones,unknown,unknown,designated,1
+4.85899364241722,footway,unknown,unknown,unknown,yes,1
+4.85899364241722,footway,unknown,unknown,unknown,yes,1
+6.231874648114792,footway,unknown,unknown,unknown,designated,1
+6.231874648114792,footway,unknown,unknown,unknown,designated,1
+6.606450855452321,footway,"['asphalt', 'paving_stones']",unknown,unknown,yes,1
+15.027073351583057,footway,metal,unknown,yes,yes,1
+15.02707335158306,footway,metal,unknown,yes,yes,1
+31.625605308649675,footway,concrete:plates,unknown,unknown,yes,1
+31.625605308649675,footway,concrete:plates,unknown,unknown,yes,1
